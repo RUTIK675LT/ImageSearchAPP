@@ -6,7 +6,6 @@ Application Link : [https://rutik675lt.github.io/SimpleCalculatorJS/](https://ru
 ![Application Screenshot](images/Home.png)
 
 
-SimpleCalculatorJS is a minimalist and visually appealing web-based calculator built using HTML CSS and JS. It's designed to perform basic arithmetic operations and provides a user-friendly interface for quick calculations.
 Image Search Application is a basic app which is made using HTML CSS JS. It is a versatile application which returns user desired images on the unsplash website. This is possilbe with the help of unsplash API
 
 ## Features
