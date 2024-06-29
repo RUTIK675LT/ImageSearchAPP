@@ -1,6 +1,6 @@
 # Image Search Application
 
-https://rutik675lt.github.io/SimpleCalculatorJS/
+[https://rutik675lt.github.io/SimpleCalculatorJS/](https://rutik675lt.github.io/ImageSearchAPP/)
 ![Application Screenshot](images/Home.png)
 
 
