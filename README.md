@@ -10,7 +10,7 @@ SimpleCalculatorJS is a minimalist and visually appealing web-based calculator b
 
 ## Features
 
-- **Global Search:** Search bar wihich use unsplash API for images.
+- **Global Search:** Search bar which use unsplash API for images.
 ![Search Screenshot](images/cats.png)
 - **Responsive Design** Interactive UI for mobile as well as Computer.
 
